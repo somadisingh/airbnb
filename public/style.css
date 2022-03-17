@@ -47,6 +47,7 @@ nav {
 
 .swimmer {
   width: 250px;
+  border-radius: 9px;
 }
 
 .star {

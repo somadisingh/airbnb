@@ -44,10 +44,9 @@ const data = [
   {
     id: 4,
     title: "Sightseeing in Japan",
-    description:
-      "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
+    description: "Explore the",
     price: 250,
-    coverImg: "mountain-bike.png",
+    coverImg: "japan-forest.png",
     stats: {
       rating: 4.2,
       reviewCount: 22,
