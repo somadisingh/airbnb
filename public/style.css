@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: Poppins;
+}
+
+nav {
+  display: flex;
+  height: 90px;
+  padding: 20px 20px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.photo-grid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 70px;
+  line-height: 110%;
+  display: block;
+  text-align: center;
+}
+
+.byline {
+  font-weight: 300;
+  font-size: 26px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  display: block;
+  text-align: center;
+}
+
+.card {
+  margin: 0px;
+  line-height: 30px;
+  position: relative;
+}
+
+.swimmer {
+  width: 250px;
+}
+
+.star {
+  width: 14px;
+  margin-right: 3px;
+}
+
+.gray {
+  color: #918e9b;
+}
+
+.info {
+  line-height: 12px;
+}
+
+.cardlist {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 25px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 20px;
+}
+
+.status {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 3px 5px;
+  border-radius: 8px;
+  font-weight: bold;
+}
