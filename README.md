@@ -1,3 +1,7 @@
+# Add Your own Experience
+
+You can add your own experience by feeding data into data.js
+
 # AirBnb Experience Website
 
 1. AirBnb Experience website was built on create-react-app template
