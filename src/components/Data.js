@@ -70,16 +70,16 @@ const data = [
   },
   {
     id: 6,
-    title: "Group Mountain Biking",
+    title: "Diving in The Great Barrier Reef",
     description:
-      "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
-    price: 50,
-    coverImg: "mountain-bike.png",
+      "Experience the serene and beautiful sealife just North of Sydny. 1 hour of tranquilness!",
+    price: 580,
+    coverImg: "scuba-diving.png",
     stats: {
-      rating: 4.8,
-      reviewCount: 2,
+      rating: 4.4,
+      reviewCount: 92,
     },
-    location: "Norway",
+    location: "Sydny, Australia",
     openSpots: 53,
   },
 ];
